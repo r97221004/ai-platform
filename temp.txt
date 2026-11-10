@@ -1,0 +1,5 @@
+Read PROJECT_PLAN.md and help me implement this project step by step.
+
+  Start with Phase 1 only. First review the architecture, propose an implementation plan, and wait for my approval before writing code.
+
+  Keep the implementation simple, explain important technical decisions, and prioritize DevOps/SRE learning objectives.
